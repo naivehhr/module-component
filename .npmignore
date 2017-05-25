@@ -1,0 +1,14 @@
+configureStore/
+android/
+ios/
+app.js
+index.android.js
+index.ios.js
+__tests__/
+.babelrc
+.buckconfig
+.flowconfig
+.gitattributes
+.npminstall.done
+.watchmanconfig
+jsconfig.json
